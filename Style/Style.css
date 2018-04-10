@@ -1,0 +1,111 @@
+body
+{
+background-image: url("../image/05_after_lighting.jpg");
+}
+.fon
+ {position:absolute;
+  z-index:0;
+  left:0px; 
+  top:0px; 
+  height:100%; 
+  width:100%;
+  padding-left: 0px;
+  padding-top: 0px;
+   }
+    
+ .menu
+ {
+ top:7%;
+  clear:right;
+  position:relative;
+  left:15%;
+  width:65%;
+  color: #663300;
+  z-index:2;
+  margin-top: 0;
+  margin-bottom: 0; 
+  }
+ .menu1
+ {
+ float:left;
+  position:absolute;
+  left:0%;
+  top:0%;
+  width:15%;
+  height: 100%;
+   background-color: #333300;
+  z-index:2;
+  padding-left: 0px;
+  padding-top: 0px;
+  }
+ 
+  .abc
+  {
+  position:relative;
+  left:8%;
+  width:72%;
+  top:8%;
+  color: #663300;
+  z-index:2;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ .abc A
+ {text-decoration: none;}
+  A:link {color:#663300;}
+A IMG {
+    border: none; 
+   }
+#indexfon
+{
+		background-Image:url('../image/main/fon.jpg');
+		background-Color:transparent;
+		background-Attachment:scroll;
+		background-Position:0 0;
+		background-Repeat:no-repeat;
+
+}
+.s
+  {text-align: justify;   color: #880000;
+  z-index:5;
+  position:absolute;
+  clear:right;
+  left:15%;
+  top:29%;
+  width:65%;}
+.o
+ {text-align: justify;   color: #000066;}
+.bukvy{
+<!--[if IE]> 
+height:70px;
+<![endif]-->
+}
+
+p
+{text-align: justify;
+margin-left:5px;
+margin-right:5px;
+text-indent:20px;
+}
+
+#back{
+position:absolute;
+width:20%;
+height:50%;
+float:right;
+right:0px;
+top:0px;
+z-index:6;
+}
+#rt{
+width:20%;
+}
+#lt{
+width:5%;
+}
+#centr{
+		position:relative;
+		height:100%;
+		width:65%;
+		z-index:0;
+		}
